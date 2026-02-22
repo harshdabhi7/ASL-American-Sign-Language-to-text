@@ -125,6 +125,10 @@ It is important that:
 
 ---
 
+Note: The trained model file is not included in this repository due to GitHub size limitations.
+Please download it from the link above and place it in the project root directory.
+-> https://www.kaggle.com/models/harshdabhiz/asl-classification
+
 ## Purpose
 
 The goal of this model is to create a reliable ASL classifier that can later be integrated into:
