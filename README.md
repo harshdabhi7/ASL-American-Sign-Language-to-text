@@ -119,9 +119,13 @@ It is important that:
 
 ## Model Performance
 
-- **Training Accuracy:** 0.9825  
-- **Validation Accuracy:** 0.9877  
-- **Number of Epochs:** 50  
+- **Training Accuracy:** 0.9779  
+- **Validation Accuracy:** 0.9876
+- **Test Accuracy:** 0.9890
+- **Number of Epochs:** 50
+<img width="1319" height="853" alt="image" src="https://github.com/user-attachments/assets/5dd93b03-e7b3-403e-aae6-ae8dc0e0b20f" />
+<img width="1299" height="848" alt="image" src="https://github.com/user-attachments/assets/74977ab6-2f64-4d61-b74a-62814c719984" />
+
 
 ---
 
